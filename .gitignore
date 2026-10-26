@@ -1,0 +1,9 @@
+.build/
+.local/
+dist/
+*.p12
+*.jks
+*.keystore
+password.txt
+.env
+.env.*
